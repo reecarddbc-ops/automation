@@ -1,3 +1,4 @@
+#A DFA has exactly ONE path for every input.
 def run_dfa():
     # -------------------------------
     # STEP 1: INPUT STATES
