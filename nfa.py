@@ -1,3 +1,4 @@
+#An NFA can have multiple possible paths for the same input.
 def run_nfa():
     # -------------------------------
     # STEP 1: INPUT STATES
